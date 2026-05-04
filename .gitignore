@@ -1,0 +1,8 @@
+corpus/
+clases/
+extras/
+docs/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+*.pyc
